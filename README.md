@@ -15,7 +15,7 @@ Shraddha Media Network is looking for a team or a couple of teams to continue an
 Do not start any development work without a written request from Shraddha Media Network. Only selected teams will be invited to build the dummy project, and payment will be made after the complete project is submitted and verified against the stated criteria.
 
 ## Details
-See the full specification and requirements in `DUMMY_PROJECT.md`.
+See the full specification and requirements in [DUMMY_PROJECT.md](DUMMY_PROJECT.md).
 
 ## Submission Contact
 - Email: it@shraddha.lk
